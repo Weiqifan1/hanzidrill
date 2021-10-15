@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hanzidrill/static/css/main.a617e044.chunk.css",
+    "main.js": "/hanzidrill/static/js/main.5653f8d7.chunk.js",
+    "main.js.map": "/hanzidrill/static/js/main.5653f8d7.chunk.js.map",
+    "runtime-main.js": "/hanzidrill/static/js/runtime-main.eb070c5f.js",
+    "runtime-main.js.map": "/hanzidrill/static/js/runtime-main.eb070c5f.js.map",
+    "static/js/2.22ded287.chunk.js": "/hanzidrill/static/js/2.22ded287.chunk.js",
+    "static/js/2.22ded287.chunk.js.map": "/hanzidrill/static/js/2.22ded287.chunk.js.map",
+    "static/js/3.395ee576.chunk.js": "/hanzidrill/static/js/3.395ee576.chunk.js",
+    "static/js/3.395ee576.chunk.js.map": "/hanzidrill/static/js/3.395ee576.chunk.js.map",
+    "index.html": "/hanzidrill/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hanzidrill/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.22ded287.chunk.js.LICENSE.txt": "/hanzidrill/static/js/2.22ded287.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hanzidrill/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb070c5f.js",
+    "static/js/2.22ded287.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5653f8d7.chunk.js"
+  ]
+}
